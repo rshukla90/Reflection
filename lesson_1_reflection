@@ -1,0 +1,8 @@
+1.Highlights the changed section and so no need to go through the unnecessary data.
+2.having the versions of program will help to revert any unnecessary changes made mistakenly.
+3.Pros:- Can commit whenever we want withou maing unnecessary commmits.
+  Cons:- If forgot to commit then will loose the changed data.
+4.Saving multiple dependent files in one commit is better option as compare to commit each file seperaely.
+5.git log :- displays all the commits made so far with the description,author name and time.
+  git diff:- can see the changes done in the new version of data with the new commit.
+6.Can go back at any time and look the changes made and can revert to the required state.
