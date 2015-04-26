@@ -6,3 +6,4 @@
 5.git log :- displays all the commits made so far with the description,author name and time.
   git diff:- can see the changes done in the new version of data with the new commit.
 6.Can go back at any time and look the changes made and can revert to the required state.
+7. Using git, will open editor, have versios.
