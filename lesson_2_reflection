@@ -1,2 +1,12 @@
-lesson_2_reflection
 * What happens when you initialize a repository? Why do you need to do it?
+creates space for the new repository.
+* How is the staging area different from the working directory and the repository? What value do you think it offers?a
+Staging area is the plateform inbetween repository and working directory. It specifies which files need to go into the repository. 
+* How can you use the staging area to make sure you have one commit per logical change?
+will satge only those changes which needed to commit.
+*What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+can try changes simulatniously
+*How do the diagrams help you visualize the branch structure?
+clear view of all the commits related to all the branches.
+*What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+after successful completion of the new branch, merging makes it possible to reflect the changes in main branch.represent in the diag, so tht can recognise how many branches we have..:P
